@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1730032845 source:c:\projects\2022013_ing293_hayward_universal_user_interface\software\i2c_dll_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdint.h>
+	"CH347DLL.H"
+
+1729885355 c:\projects\2022013_ing293_hayward_universal_user_interface\software\i2c_dll_test\xvcd-ch347\ch347dll_en.h
+	<windows.h>
+	<stdint.h>
+
+1729587721 c:\projects\2022013_ing293_hayward_universal_user_interface\software\i2c_dll_test\xvcd-ch347\ch347dll.h
+
